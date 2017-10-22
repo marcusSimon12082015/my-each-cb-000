@@ -13,5 +13,5 @@ def my_each(collection) # put argument(s) here
 end
 
 my_each([1,2,3,4]) do |i|
-  puts i
+  i
 end
