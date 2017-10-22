@@ -9,6 +9,7 @@ def my_each(collection) # put argument(s) here
     collection
   else
     puts "No Block!"
+  end
 end
 
 my_each([1,2,3,4]) do |i|
